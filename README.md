@@ -3,7 +3,8 @@
 Olá! Meu nome é Carlos Barros e este é o meu repositório do GitHub. Sou estudante de Engenharia de Software apaixonado por programação e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=carlosbarros007&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosbarros007&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbarros007&layout=compact&theme=dark" />
 </div>
 
 ## Sobre Mim
@@ -21,13 +22,14 @@ Olá! Meu nome é Carlos Barros e este é o meu repositório do GitHub. Sou estu
 - Aprender novas tecnologias e frameworks para aprimorar minhas habilidades de desenvolvimento.
 - Construir uma base de conhecimento solida.
 
-## Projetos
+<!--## Projetos
 
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 - [Projeto 1](link_para_projeto_1): Descrição breve do projeto 1.
 - [Projeto 2](link_para_projeto_2): Descrição breve do projeto 2.
-- [Projeto 3](link_para_projeto_3): Descrição breve do projeto 3.
+- [Projeto 3](link_para_projeto_3): Descrição breve do projeto 3
+--->
 
 Sinta-se à vontade para explorar meu repositório e verificar meus projetos. Se você estiver interessado em colaborar ou tiver alguma pergunta, não hesite em entrar em contato comigo.
 
