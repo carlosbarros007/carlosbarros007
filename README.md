@@ -2,6 +2,10 @@
 
 Olá! Meu nome é Carlos Barros e este é o meu repositório do GitHub. Sou estudante de Engenharia de Software apaixonado por programação e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=carlosbarros007&show_icons=true&theme=dark" />
+</div>
+
 ## Sobre Mim
 
 - 👨‍🎓 Estudante de Engenharia de Software.
